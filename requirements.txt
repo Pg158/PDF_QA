@@ -4,3 +4,5 @@ streamlit
 python-dotenv
 torch
 transformers
+llama-index-embeddings-huggingface
+llama-index-llms-groq

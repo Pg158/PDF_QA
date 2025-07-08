@@ -5,7 +5,7 @@ import hashlib
 from dotenv import load_dotenv
 from llama_index.core import SimpleDirectoryReader, Settings
 from llama_index.core.node_parser import SentenceSplitter
-from llama_index.embeddings.huggingface.base import HuggingFaceEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.core import VectorStoreIndex
 from llama_index.llms.groq import Groq
 from llama_index.core.query_engine import RetrieverQueryEngine

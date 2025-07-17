@@ -6,7 +6,7 @@ This is a Streamlit-based application that allows users to upload a PDF and ask 
 
 ## 🔗 Live App
 
-🌐 [Click here to use the app](https://your-username-your-repo-name.streamlit.app)
+🌐 [Click here to use the app](https://rag-answers.streamlit.app)
 
 ---
 
@@ -36,7 +36,7 @@ This is a Streamlit-based application that allows users to upload a PDF and ask 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/pdf-qa-app.git
+git clone https://github.com/Pg158/PDF_QA
 cd pdf-qa-app
 pip install -r requirements.txt
 ```
